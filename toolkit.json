@@ -9,6 +9,6 @@
   "register_url": "https://www.92pak2.com/#/register?invitationCode=42566562750",
   "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
   "home_url": "https://www.92pak.world/#/",
-  "minimum_deposit": 0,
-  "minimum_deposit_number": 0
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500
 }
